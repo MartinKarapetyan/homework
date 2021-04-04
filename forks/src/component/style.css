@@ -1,0 +1,27 @@
+.registr_bloc
+{
+	display:flex;
+	flex-direction: column;
+	width: 30%;
+	height: 300px;
+}
+.registr_bloc a {
+	font-size: 22px;
+	text-decoration: none;
+	color: red;
+}
+.openModul
+{
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+}
+.back{
+	font-size: 50px;
+	padding-top: 20px;
+}
+.allPerson
+{
+	display: flex;
+	flex-direction: column;
+}
